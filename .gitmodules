@@ -1,0 +1,3 @@
+[submodule "doc/dissertation"]
+	path = doc/dissertation
+	url = https://github.com/fasapa/master-dissertation
