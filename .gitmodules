@@ -1,3 +1,6 @@
 [submodule "doc/dissertation"]
 	path = doc/dissertation
 	url = https://github.com/fasapa/master-dissertation
+[submodule "experiments/metacoq"]
+	path = experiments/metacoq
+	url = https://github.com/fasapa/metacoq-experiments
