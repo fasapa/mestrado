@@ -4,3 +4,9 @@
 [submodule "experiments/metacoq"]
 	path = experiments/metacoq
 	url = https://github.com/fasapa/metacoq-experiments
+[submodule "formalizations/nominal"]
+	path = formalizations/nominal
+	url = git@github.com:fasapa/nominal.git
+[submodule "doc/wbl21"]
+	path = doc/wbl21
+	url = git@github.com:fasapa/wbl21.git
