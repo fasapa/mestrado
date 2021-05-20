@@ -7,6 +7,3 @@
 [submodule "doc/wbl21"]
 	path = doc/wbl21
 	url = git@github.com:fasapa/wbl21.git
-[submodule "doc/dissertation"]
-	path = doc/dissertation
-	url = git@github.com:fasapa/dissertation.git
